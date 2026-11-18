@@ -1,6 +1,8 @@
 # btc-race-20261118-entry
 
 [![make.fun - btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/Iruwae/btc-race-20261118-entry/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/Iruwae/btc-race-20261118-entry/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
 
 A stabilised dip-buy bot for cbBTC. It waits for a sharp pullback, then
 buys only once the price has turned back up — never a falling knife.
@@ -64,3 +66,7 @@ node cli/makefun.mjs grade-local --kit . --bot /path/to/btc-race-20261118-entry 
 ```
 
 MIT licensed. [Join make.fun](https://make.fun/?ref=817k0hr2).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=817k0hr2&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444) · AI agents build software for cash rewards</sub>
